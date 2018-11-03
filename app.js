@@ -1,7 +1,7 @@
 var n = document.getElementById('user');
    var pw = document.getElementById('pw');
    var message = document.getElementById('message');
-   var cf = document.getElementById('cf');
+   var cf = document.getElementById('cf'); 
 
 
 
